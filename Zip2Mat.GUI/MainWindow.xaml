@@ -4,9 +4,9 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Zip2Mat.GUI"
-        WindowStartupLocation="CenterScreen"
+        WindowStartupLocation="CenterOwner"
         mc:Ignorable="d"
-        Title="s2convert_tools" Height="225" Width="325">
+        Title="s2convert_tools" Height="225" Width="325" ResizeMode="NoResize">
     <Grid>
         <StackPanel Name="pnlDrop" Drop="StackPanel_Drop" AllowDrop="true" Margin="10,10,10,59">
             <Grid>
