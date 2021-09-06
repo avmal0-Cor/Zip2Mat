@@ -1,14 +1,13 @@
-# Zip2Mat
+# s2convert_tools
 
-![Zip2Mat Screenshot](https://user-images.githubusercontent.com/12881812/115393441-9b468f80-a1d9-11eb-94cf-88bf91183fca.png)
+<!-- Оставлю в качестве замены в будущем | ![Zip2Mat Screenshot](https://user-images.githubusercontent.com/12881812/115393441-9b468f80-a1d9-11eb-94cf-88bf91183fca.png) -->
 
-## What?
+## Что это?
 
-Zip2Mat is a simple app that allows you to convert textures contained in zip files 
-(like [this one](https://cc0textures.com/view?id=Metal022)) to materials you can use with Source 2, allowing you to import
-materials at light speed.
+s2convert_tools в основном нацелен на эффективную конвертацию материалов. Пока программа работает посредством zip архивов, но планируется уйти от этого в пользу работы с единичным файлом/материалом.
 
-Zip2Mat currently features:
+
+s2convert_tools поддерживает то же, что и Zip2Mat, то есть:
 
 - Automatically extracts & moves all of your files into the right place so that you don't have to
 - Bulk importing: drag & drop multiple zip files so that you can batch import textures

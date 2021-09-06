@@ -32,8 +32,8 @@ namespace Zip2Mat
 
         private static string GenerateMaterial(TextureCollection textures)
         {
-            var vrTemplate = new VrSimple(textures);
-            return vrTemplate.TransformText();
+            var Template = new Simple(textures);
+            return Template.TransformText();
         }
     }
 }

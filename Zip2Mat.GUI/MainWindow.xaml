@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Zip2Mat.GUI"
         WindowStartupLocation="CenterScreen"
         mc:Ignorable="d"
-        Title="Zip2Mat" Height="225" Width="325">
+        Title="s2convert_tools" Height="225" Width="325">
     <Grid>
         <StackPanel Name="pnlDrop" Drop="StackPanel_Drop" AllowDrop="true" Margin="10,10,10,59">
             <Grid>
