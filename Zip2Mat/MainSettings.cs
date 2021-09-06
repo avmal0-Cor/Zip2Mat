@@ -5,7 +5,7 @@ namespace Zip2Mat
 {
     public class MainSettings
     {
-        public string MatLocation = @"C:\Program Files (x86)\Steam\steamapps\common\Half-Life Alyx\content\hlvr_addons\sandbox_maps\materials"; // default
+        public string MatLocation = @"C:\default_folder_CHANGEME_IN_CONFIG_JSON\okay"; // default
 
         private static MainSettings instance;
         public static MainSettings Instance 
